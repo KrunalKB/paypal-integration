@@ -1,4 +1,6 @@
-<!doctype html>
+<?php
+
+?>
 <html lang="en">
 
 <head>
@@ -79,3 +81,6 @@
 </body>
 
 </html>
+<?php
+
+?>

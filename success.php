@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+?>
 <html lang="en">
 
 <head>
@@ -11,16 +13,17 @@
 
 <body>
     <main id="cart-main">
-
         <div class="site-title text-center">
             <img src="./assets/checked.png" alt="" height="100" width="100">
             <h1 class="font-title">Payment Done Successfully...!</h1>
             <div id="displaySeconds"></div>
         </div>
-        
-
     </main>
 
 </body>
 
 </html>
+
+<?php
+
+?>
